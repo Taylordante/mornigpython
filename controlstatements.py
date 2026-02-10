@@ -1,5 +1,5 @@
 
-temperature = int(input("Enter current room temperature"))
+temperature = int(input("Enter current room temperature:"))
 if temperature > 25:
      print("It is too hot")
 

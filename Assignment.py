@@ -1,8 +1,5 @@
 #Create a simple calculator program
 #Using Python
-
-
-
 # Simple Calculator
 
 num1 = float(input("Enter the first number: "))
